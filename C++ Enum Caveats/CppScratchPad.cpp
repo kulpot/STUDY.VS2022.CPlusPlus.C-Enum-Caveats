@@ -32,8 +32,8 @@ enum Animals
 	COW,
 	DONKEY,
 	FISH,
-	//MAX
-	MAX_ANIMALS		// explicit
+	MAX
+	//MAX_ANIMALS		// explicit
 };
 
 enum CarManufacturers
